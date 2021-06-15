@@ -20,6 +20,8 @@ Market data reflecting current trading information to include pricing and volume
 
 Market data is a broad term for trade-related data such as price, ask/bid and volume for financial instruments. Financial firms, traders and investors require such data to execute trades. Financial data vendors offer market data on a regional or global basis that may include a large number of exchanges and instruments such as equities, fixed-income products, derivatives and currencies. The following are common market data considerations.
 
-You can find more details at 
-https://finpricing.com/lib/FxVolIntroduction.html
+References:
+
+https://finpricing.com/lib/EqRainbow.html
+
 
